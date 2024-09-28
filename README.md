@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirisuoc
 - 👀 I’m interested in Sports and Computer Science
-- 🖥️ I’m currently learning programming in 📍Campus 42
+- 🖥️ I’m currently learning Programming in 📍Campus 42
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
