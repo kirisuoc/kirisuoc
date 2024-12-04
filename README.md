@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @kirisuoc
+<div align="center">
+<h1 align="center">Hi, it's <a href="https://">Erik</a> 👋</h1>
+</div>
+<!---
+Poner Banner aquí
+--->
+
 - 👀 I’m interested in Sports and Computer Science
 - 🖥️ I’m currently learning Programming in 📍Campus 42
 - 💞️ I’m looking to collaborate on ...
