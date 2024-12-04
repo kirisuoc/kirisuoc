@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://github.com/kirisuoc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirisuoc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirisuoc&layout=compact&langs_count=8&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirisuoc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirisuoc&layout=compact&langs_count=8&theme=github_dark"/>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirisuoc&repo=metrobilbao-now&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirisuoc&repo=so_long&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirisuoc&repo=metrobilbao-now&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirisuoc&repo=so_long&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
   </a>
