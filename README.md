@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://github.com/kirisuoc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirisuoc&show_icons=true&theme=slate-orange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirisuoc&layout=compact&langs_count=8&theme=slate-orange"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirisuoc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirisuoc&layout=compact&langs_count=8&theme=darcula"/>
+  </a>
 </p>
 
 <!---
