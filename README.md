@@ -25,3 +25,24 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirisuoc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<!---
+> [!NOTE]
+> Aquí tienes una nota
+
+
+> [!TIP]
+> Aquí tienes una nota
+
+
+> [!IMPORTANT]
+> Aquí tienes una nota
+
+
+> [!WARNING]
+> Aquí tienes una nota
+
+
+> [!CAUTION]
+> Aquí tienes una nota
+--->
